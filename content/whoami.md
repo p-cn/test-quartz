@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+title: whoami
 ---
+
 Hi, my name is Payton. A little about me:
 - I'm an Operations Manager with 7+ years’ experience from tech-enabled companies in various industries.
 - My expertise includes workforce and quality management, operational excellence, and strategic planning.

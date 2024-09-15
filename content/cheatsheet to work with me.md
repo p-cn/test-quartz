@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+title: cheatsheet to work with me
 ---
+
 Here's an example of a professional cheat sheet for working with you:
 
 ---
