@@ -1,14 +1,3 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-// Google Fonts
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=STIX+Two+Text:ital,wght@0,400..700;1,400..700&display=swap');
-
-
-* {
- font-family: 'STIX Two Text', -apple-system, BlinkMacSystemFont, sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
- font-family: 'Hiragino Mincho ProN','DM Serif Text', -apple-system, BlinkMacSystemFont, sans-serif;
-}
